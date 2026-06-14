@@ -49,7 +49,7 @@ Total Number of Publications:    66 (published), 4 (submitted)
 - Piccirilli+ [subm. to A&A](https://arxiv.org/abs/2511.22732) - EMU: Cross-correlating EMU Pilot Survey 1 with Dark Energy Survey to constrain the radio galaxy redshift distribution
 - Shekhar Saraf+ [subm. to PASA](https://arxiv.org/abs/2505.05821) - EMU and Euclid: Detection of a radio-optical galaxy clustering cross-correlation signal between the Evolutionary Map of the Universe and Euclid
 - Thykkathu+ [2026, MNRAS, 548, stag616](https://doi.org/10.1093/mnras/stag616) - MIGHTEE: The evolving radio luminosity functions of star-forming galaxies to and the cosmic history of star formation
-- Shimwell+ 2026, A&A, 707, A198 - The LOFAR Two-metre Sky Survey: VII. Third Data Release
+- Shimwell+ [2026, A&A, 707, A198](https://doi.org/10.1051/0004-6361/202557749) - The LOFAR Two-metre Sky Survey: VII. Third Data Release
 - Varadaraj+ [2026, MNRAS, 547, stag473](https://doi.org/10.1093/mnras/stag473) - MIGHTEE/COSMOS-3D: the discovery of three spectroscopically confirmed radio-selected star-forming galaxies at z = 4.9-5.6
 - Malefahlo+ [2026 MNRAS, 547, stag285](https://doi.org/10.1093/mnras/stag285) - Deblending the MIGHTEE-COSMOS survey with XID+: The resolved radio source counts to S1.4 ~ 5uJy
 - Rarivoarinoro+ [2026, MNRAS, 547, stag378](https://doi.org/10.1093/mnras/stag378) - MIGHTEE: discovery of a triple-double radio galaxy 
@@ -73,7 +73,7 @@ Total Number of Publications:    66 (published), 4 (submitted)
 - Sillassen+ [2024, A&A, 690, A55](https://doi.org/10.1051/0004-6361/202450760) - NOEMA formIng Cluster survEy (NICE): Characterizing eight massive galaxy groups at 1.5 < z < 4 in the COSMOS field
 - Wang+ [2024, A&A, 688, A20](https://doi.org/10.1051/0004-6361/202349055) - Probabilistic and progressive deblended far-infrared and sub-millimetre point source catalogues. I. Methodology and first application in the COSMOS field
 - Cook+ [2024, MNRAS, 531, 708](https://doi.org/10.1093/mnras/stae1215) - DEVILS/MIGHTEE/GAMA/DINGO: the impact of SFR time-scales on the SFR-radio luminosity correlation
-- Nakoneczny+ 2024, A&A 681, A105 - Cosmology from LOFAR Two-metre Sky Survey Data Release 2: Cross-correlation with the cosmic microwave background (see also [here](https://doi.org/10.1051/0004-6361/202450585e)) 
+- Nakoneczny+ [2024, A&A 681, A105](https://doi.org/10.1051/0004-6361/202347728) - Cosmology from LOFAR Two-metre Sky Survey Data Release 2: Cross-correlation with the cosmic microwave background (see also [here](https://doi.org/10.1051/0004-6361/202450585e)) 
 - Hardcastle+ [2023, A&A, 678, A15](https://doi.org/10.1051/0004-6361/202347333) - The LOFAR Two-Metre Sky Survey. VI. Optical identifications for the second data release
 - Thomson+ [2023, PASA, 40, e040](https://doi.org/10.1017/pasa.2023.38) - The Rapid ASKAP Continuum Survey III: Spectra and Polarisation In Cutouts of Extragalactic Sources (SPICE-RACS) first data release (see also [here](https://doi.org/10.1017/pasa.2024.34))
 - Singal+ [2023, PASP, 135, 1045](https://iopscience.iop.org/article/10.1088/1538-3873/acbdbf) - The Second Radio Synchrotron Background Workshop: Conference Summary and Report
