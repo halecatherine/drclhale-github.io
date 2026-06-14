@@ -1,6 +1,6 @@
 # Employment History
 
-## Outlined is my relevant research career to date
+Outlined is my relevant research career to date
 
 -------------------
 
