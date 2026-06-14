@@ -20,3 +20,13 @@ Outlined below are my collaboration leadership and broader roles of responsibili
 ### 01/2021 – 05/2024	Co-chair of the Continuum Focus Group within the SKAO Cosmology SWG
 
 
+-------------------
+
+## SKAO Precursor/Pathfinder Leadership Roles
+
+### 10/2020 - Present	Co-chair of the MIGHTEE Continuum Working Group
+ - MIGHTEE is a Key Project with the MeerKAT telescope - see [here](https://www.mighteesurvey.org)
+
+### 12/2025 - Present	Member of a joint co-ordination group for EMU and Euclid
+
+
