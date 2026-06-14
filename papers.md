@@ -98,8 +98,8 @@ Total Number of Publications:    66 (published), 4 (submitted)
 ---------------
 
 ### Other Publications 
-- Hale & Tabatabaei, accepted to SKA Advancing Astrophysics II - Overview: Extragalactic Continuum Science with the SKAO (*reviewed*) 
-- Asorey, Hale et al., accepted to SKA Advancing Astrophysics II - Cosmology from the Clustering of Continuum Galaxies (*reviewed*) 
+- **Hale** & Tabatabaei, accepted to SKA Advancing Astrophysics II - Overview: Extragalactic Continuum Science with the SKAO (*reviewed*) 
+- Asorey, **Hale** et al., accepted to SKA Advancing Astrophysics II - Cosmology from the Clustering of Continuum Galaxies (*reviewed*) 
 - Duncan+ [2025, The Messenger 190, 25-27](https://doi.org/10.18727/0722-6691/5306) -  Optical, Radio Continuum and HI Deep Spectroscopic Survey (ORCHIDSS)
 - Jarvis+ [2017, Proceedings of Science, "MeerKAT Science: On the Pathway to the SKA", Stellenbosch, 25-27 May 2016](https://doi.org/10.22323/1.277.0006) - The MeerKAT International GHz Tiered Extragalactic Exploration (MIGHTEE) Survey, 
 - Smith+ [2016, {roceedings of the SF2A conference, Lyon, 2016](https://arxiv.org/abs/1611.02706) - The WEAVE-LOFAR Survey 
