@@ -22,4 +22,20 @@ Total Number of Publications:    66 (published), 4 (submitted)
 - [**Hale**+ 2019, A&A, 622, A4](https://doi.org/10.1051/0004-6361/201833906) - LOFAR Observations of the XMM-LSS field 
 - [**Hale**+ 2018, MNRAS, 474, 4133](https://doi.org/10.1093/mnras/stx2954) - The clustering and bias of radio-selected AGN and star-forming galaxies in the COSMOS field 
 
+---------------
 
+### Highly Listed Author Publications 
+*11 Published, 1 submitted*
+- Hamlett, **Hale**, Jarvis+ submitted to MNRAS - Galaxy bias of radio AGN and star-forming galaxies from MIGHTEE and CMB lensing (*7 authors*)
+- Maksymowicz-Maciata, Maddox, **Hale**+ [accepted to MNRAS](https://arxiv.org/abs/2605.28731) - MIGHTEE-HI: Comparing 3-dimensional source finding methods and HI source catalogue for the COSMOS field (*15 authors*)
+- Hamlett, **Hale**, Jarvis+ 2026, MNRAS, 547, stag468 - MIGHTEE: The dark matter haloes, duty cycle and mechanical feedback from radio-AGN up to 𝑧∼2.5 (*6 authors*) 
+- Seymour, **Hale**, Whittam+ 2026, ApJ, 998, 306- A JWST Paschen-alpha Calibration of the Radio Luminosity-Star Formation Rate Relation at z~1.3 (*20 authors*)
+- Shimwell, **Hale**, Best+ 2025, A&A, 695, A80 - The LOFAR Two-metre Sky Survey: Deep Fields Data Release 2. I. The ELAIS-N1 field (*32 authors*)
+- Thomas, Whittam, **Hale**, Morabito+ 2025, MNRAS, 536, 2873 – Radio galaxies in SIMBA: a MIGHTEE comparison (*7 authors*)
+- Bhardwaj, Schwarz, **Hale**, Duncan+ 2024, A&A 692, A2 – Flux dependence of redshift distribution and clustering of LOFAR radio sources (*13 authors*)
+- Whittam, Prescott, **Hale**, Jarvis+ 2024, MNRAS, 527, 3231 - MIGHTEE: multi-wavelength counterparts in the COSMOS field (*29 authors, and see [here](https://doi.org/10.1093/mnras/stae024)*)
+- Whittam, Jarvis, **Hale**, Prescott+ 2022, MNRAS, 516, 245 - MIGHTEE: the nature of the radio-loud AGN population (*27 authors*)
+- Heywood, Jarvis, **Hale**, Whittam+ 2022, MNRAS, 509, 2150 - MIGHTEE: total intensity radio continuum imaging and the COSMOS/XMM-LSS Early Science fields (*26 authors*)
+- McConnell, **Hale**, Lenc, Banfield+ 2020, PASA, 37, e048 - The Rapid ASKAP Continuum Survey I: Design and first results (*49 authors*)
+- Siewert, **Hale**, Bhardwaj, Biermann+ 2020, A&A, 643, A100 - One- and Two-point Source Statistics from the LOFAR Two-metre Sky Survey First Data Release (*16 authors*)
+- Heywood, **Hale**, Jarvis, Makhathini+ 2020, MNRAS, 496, 3469 - VLA imaging of the XMM-LSS/VIDEO deep field at 1-2 GHz (*7 authors*)
