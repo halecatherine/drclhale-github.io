@@ -13,9 +13,9 @@ Galaxy evolution, Observational Cosmology, Radio Continuum Surveys, Large-scale 
 
 ![Image of Dr. Hale and Image of MIGHTEE radio continuum survey DR1 from Hale et al. 2025](CHale.png)
 
-### [Download Full CV](CV_CatherineHale.pdf)
-
 ---------------------------
+
+In the sections below please take a look at information about my career and roles. 
 
 ### [Employment](employment.md)
 
@@ -28,3 +28,5 @@ Galaxy evolution, Observational Cosmology, Radio Continuum Surveys, Large-scale 
 ### [Teaching Experience](teaching.md)
 
 ### [Publications](papers.md)
+
+
