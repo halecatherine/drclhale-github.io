@@ -3,6 +3,7 @@
 Outlined below are my collaboration leadership and broader roles of responsibility.
 
 -------------------
+-------------------
 
 ## SKAO Scientific and Community Leadership
 
@@ -19,7 +20,7 @@ Outlined below are my collaboration leadership and broader roles of responsibili
 
 ### 01/2021 – 05/2024	Co-chair of the Continuum Focus Group within the SKAO Cosmology SWG
 
-
+-------------------
 -------------------
 
 ## SKAO Precursor/Pathfinder Leadership Roles
