@@ -25,7 +25,9 @@ In the sections below please take a look at information about my career and role
 
 ### [Talks and Posters](talks.md)
 
-### [Teaching Experience](teaching.md)
+### [Supervision and Teaching Experience](teaching.md)
+
+### [Public Engagement and Outreach](outreach.md)
 
 ### [Publications](papers.md)
 
