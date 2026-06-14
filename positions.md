@@ -30,4 +30,14 @@ Outlined below are my collaboration leadership and broader roles of responsibili
 
 ### 12/2025 - Present	Member of a joint co-ordination group for EMU and Euclid
 
+-------------------
+-------------------
 
+## Broader Community and Departmental Roles
+ - Co-Organiser of the Extragalactic Journal Club (University of Edinburgh, 2021-2023)
+ - Refereed articles for MNRAS, ApJ, ApJS and have also reviewed MeerKAT proposals 
+ - Assisted with DPhil Admissions for Astrophysics, University of Oxford (Jan-Feb 2024)
+ - Co-Interviewer for Physics Admissions at Oriel College, University of Oxford (Dec 2018)
+ - Events co-ordinator for the University of Oxford Women in Physics Society (2015-2018)
+ - Graduate Representative for the Astrophysics Sub-Department, Oxford (2016-2017)
+ - Female Welfare Representative for Merton College, Oxford (2013-2014)
